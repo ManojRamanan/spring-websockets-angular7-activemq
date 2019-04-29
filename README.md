@@ -1,5 +1,5 @@
-This is a spring websocket template with active mq congifuration
-and angular 7 support 
+This is a Spring Websocket template with active mq congifuration and angular 7 support 
+
 
 # prerequistes 
 java version 8<br>
